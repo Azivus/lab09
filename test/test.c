@@ -27,8 +27,8 @@ END_TEST
 
 START_TEST(test3_lab05x_eq_y)
 {
-	int test_x = 30;
-	int test_y = 30;
+	int test_x = 32;
+	int test_y = 32;
 	int test_result = 0;
 	int actual_result = lab05(test_x, test_y);
 
